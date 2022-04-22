@@ -9,6 +9,7 @@ The regressors were compared by their normalized Root Squared Mean Error (RMSE).
 
 
 Technologies Used: Google Colab; Jupyter Notebook
+
 Libraries Used: Scikit-Learn; Pandas; NumPy; 
 
 Google Colab: https://colab.research.google.com
