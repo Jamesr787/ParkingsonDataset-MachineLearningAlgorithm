@@ -6,7 +6,7 @@ A K-fold cross-validation strategy (RandomizedSearchCV) was used to optimize eac
 The regressors were compared by their normalized Root Squared Mean Error (RMSE).
 
 
-
+Languages Used: Python
 
 Technologies Used: Google Colab; Jupyter Notebook
 
